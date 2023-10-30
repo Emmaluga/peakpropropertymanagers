@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: "Roboto" !important;
+
+}
+
+.navlink{
+  margin-left: 10px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none !important;
+
+
+}
+
+.hero{
+  background-image: url("./assets/jorge-ramirez-nEwLb1onsDo-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  align-items: center;
+  position: relative;
+ 
+
+  
+}
+/* .nav-btn{
+  outline-color: white;
+} */
+#navid{
+  color: white;
+  font-weight: bold;
+}
+.navC{
+  background-color: lightblue;
+}
+.p-logo{
+  font-size: 2rem;
+  font-weight: bold;
+ 
+}
+#logo{
+ color: white;
+}
+
+.herohead-text{
+  font-weight: bold;
+}
+.hero-text{
+  position: absolute;
+  top: 50vh;
+  left: 100px;
+  color: white;
+  
+ 
+  /* font-family: "Roboto"; */
+
+}
+
+.hero-btn{
+  margin-left: 20px;
+  background-color: red;
+  color: white;
+  border: red;
+  padding: 10px 20px;
+  border-radius: 10px 10px;
+}
+
+.head-text{
+ font-weight: bolder;
+ color: white;
+  
+}
+.btn-login{
+  background-color: red;
+  color: white;
+  border: red;
+  padding: 0px 20px;
+  font-weight: bold;
+}
+.how-text{
+
+  border-top: 5px solid blue;
+  border-width: 5px;
+
+ 
+}
+.icon-cardslink{
+  color: "red";
+  text-decoration: none;
+
+}
+.icon-buttons{
+  background-color: red;
+  color: white;
+  border: red;
+}
+
+.guides{
+  background-color: lightblue;
+  padding: 70px 0;
+}
+#btn-buy{
+
+  background-color: red;
+  color: white;
+  border: red;
+  padding: 0px 20px;
+  font-weight: bold;
+
+}
+.peakproad{
+  background-color: lightblue;
+  padding: 40px 0;
+}
+.peakad-text{
+  font-weight: bold;
+}
+/* .blogstext{
+  text-align: center;
+  padding: 40px 0;
+ 
+} */
+
+ 
+
+.btn-blogs{
+  background-color: red;
+  color: white;
+  border: red;
+  padding: 0px 20px;
+  font-weight: bold;
+}
+.blogstext{
+  color: blue;
+  font-weight: bold;
+}
+.footer{
+  padding: 40px 0;
+  background-color: lightblue;
+}
+
+
